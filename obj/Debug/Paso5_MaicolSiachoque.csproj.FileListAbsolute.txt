@@ -1,0 +1,15 @@
+C:\Users\maico\Desktop\Programas\Paso5_MaicolSiachoque\obj\Debug\Paso5_MaicolSiachoque.csproj.AssemblyReference.cache
+C:\Users\maico\Desktop\Programas\Paso5_MaicolSiachoque\obj\Debug\Paso5_MaicolSiachoque.csproj.SuggestedBindingRedirects.cache
+C:\Users\maico\Desktop\Programas\Paso5_MaicolSiachoque\obj\Debug\Paso5_MaicolSiachoque.csproj.CoreCompileInputs.cache
+C:\Users\maico\Desktop\Programas\Paso5_MaicolSiachoque\bin\Debug\Paso5_MaicolSiachoque.exe.config
+C:\Users\maico\Desktop\Programas\Paso5_MaicolSiachoque\bin\Debug\Paso5_MaicolSiachoque.exe
+C:\Users\maico\Desktop\Programas\Paso5_MaicolSiachoque\bin\Debug\Paso5_MaicolSiachoque.pdb
+C:\Users\maico\Desktop\Programas\Paso5_MaicolSiachoque\obj\Debug\Paso5_MaicolSiachoque.exe
+C:\Users\maico\Desktop\Programas\Paso5_MaicolSiachoque\obj\Debug\Paso5_MaicolSiachoque.pdb
+C:\Users\maico\Desktop\C#\Paso5_MaicolSiachoque\bin\Debug\Paso5_MaicolSiachoque.exe.config
+C:\Users\maico\Desktop\C#\Paso5_MaicolSiachoque\bin\Debug\Paso5_MaicolSiachoque.exe
+C:\Users\maico\Desktop\C#\Paso5_MaicolSiachoque\bin\Debug\Paso5_MaicolSiachoque.pdb
+C:\Users\maico\Desktop\C#\Paso5_MaicolSiachoque\obj\Debug\Paso5_MaicolSiachoque.csproj.AssemblyReference.cache
+C:\Users\maico\Desktop\C#\Paso5_MaicolSiachoque\obj\Debug\Paso5_MaicolSiachoque.csproj.CoreCompileInputs.cache
+C:\Users\maico\Desktop\C#\Paso5_MaicolSiachoque\obj\Debug\Paso5_MaicolSiachoque.exe
+C:\Users\maico\Desktop\C#\Paso5_MaicolSiachoque\obj\Debug\Paso5_MaicolSiachoque.pdb
